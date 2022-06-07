@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/viraj-mahalunkar/](https://www.linkedin.com/in/viraj-mahalunkar/)
+- 👨‍💻 All of my projects are available at [Linkedin (PS Still working on my personal portfolio website)](https://www.linkedin.com/in/viraj-mahalunkar/)
 
 - 💬 Ask me about **low-code web development tools like Divi, Elementor, Shopify or any other tool you come across.**
 
