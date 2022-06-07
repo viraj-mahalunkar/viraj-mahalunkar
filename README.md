@@ -1,4 +1,4 @@
-<h1 color="red";>[Bonjour, merci de visiter mon profil!]</h1>
+<h1 color=red>[Bonjour, merci de visiter mon profil!]</h1>
 
 <h3>My name is Viraj Mahalunkar, I am a low-code web developer who loves trotting the globe. Programming is challenging, and I absolutely love the process of solving complex problems. Though I am a great with low-code tech, now I am slowly transitioning into learning JavaScript. MERN being the prefered stack of my choice.</h3> 
 
