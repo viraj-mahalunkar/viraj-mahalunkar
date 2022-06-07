@@ -1,5 +1,6 @@
 <h1 align="center">Bonjour 🐙, I'm Viraj</h1>
 <h3 align="center">A low-code web developer from 🇮🇳 who loves to travel the world. Tech and Programming fascinates me as solving complex problems is what I absolutely love about the job. Though I’ve spent most of my life using “low-code” web development tools like Divi, Webflow, Elementor and Shopify, I’m now beginning to embrace front end technologies with JavaScript gradually becoming my favorite language to work in. MERN remains *my* preferred stack as a programmer..</h3><br>
+
 - 🔭 I’m currently working on **mastering my skillset with Vanilla JS**
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -11,6 +12,7 @@
 - 📫 How to reach me **mahalunkar.viraj@gmail.com**
 
 - ⚡ Fun fact **I am an inbound marketer and a certified scuba diving instructor having trained 150+ students.**
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
