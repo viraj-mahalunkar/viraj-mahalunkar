@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on developing my logic with Vanilla JavaScript.
 - 🌱 I’m primarily self-taught (which programmer isn't?)
 - 💬 Ask me about low-code web development tools such as Divi, Elementor, Shopify or just any other tool you come across.
-- 📫 How to reach me: <mailto:mahalunkar.viraj@gmail.com>
+- 📫 How to reach me: <p><mailto:mahalunkar.viraj@gmail.com>Viraj Mahalunkar</p>
 - ⚡ Fun fact: I am an inbound marketer and also a certified scuba diving instructor having trained 150+ students.
 
 <code><a href="#" class="fa fa-facebook"></a>
