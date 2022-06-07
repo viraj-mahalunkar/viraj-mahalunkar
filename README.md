@@ -1,9 +1,6 @@
-<code><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></code>
+<h1 style="font: 12px arial red;">Bonjour, merci de visiter mon profil!</h1>
 
-
-<h1>Bonjour, merci de visiter mon profil!</h1>
-
-My name is Viraj Mahalunkar, I am a low-code web developer who loves trotting the globe. Programming is challenging, and I absolutely love the process of solving complex problems. Though I am a great with low- code tech, now I am slowly transitioning into learning JavaScript. MERN being the prefered stack of my choice. 
+<h3>My name is Viraj Mahalunkar, I am a low-code web developer who loves trotting the globe. Programming is challenging, and I absolutely love the process of solving complex problems. Though I am a great with low-code tech, now I am slowly transitioning into learning JavaScript. MERN being the prefered stack of my choice.</h3> 
 
 - 🔭 I’m currently working on developing my logic with Vanilla JavaScript.
 - 🌱 I’m primarily self-taught (which programmer isn't?)
